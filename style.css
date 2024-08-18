@@ -6,15 +6,8 @@ h1{
     justify-content: center;
 }
 
-h{
+h2{
     fontsize:30px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-}
-
-h3{
     display: flex;
     flex-direction: column;
     align-items: center;
